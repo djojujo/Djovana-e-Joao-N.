@@ -40,7 +40,7 @@ button {
 }
 
 button:hover {
-    background-color: rgba(7, 41, 2, 0.8);
+    background-color: #FBE8C5(7, 41, 2, 0.8);
 }
 
 .prev {
@@ -51,7 +51,7 @@ button:hover {
     right: 10px;
 }
 body{
-    background-color: #8B4513;
+    background-color: #BB6222;
 }
 
 .logo{
