@@ -30,8 +30,8 @@ button {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background-color: #FBE8C5(122, 228, 112, 0.5);
-    color: rgb(199, 15, 15);
+    background-color:#BB6222(122, 228, 112, 0.5);
+    color: #000(199, 15, 15);
     border: none;
     font-size: 1.5em;
     cursor: pointer;
