@@ -84,25 +84,6 @@ body{
     width: 100%;
     text-align: center;
     }
-
-    /* Importante para o menu tomar como referência *
-    
-    ul li{
-    list-style: none;
-    }
-    
-    .texto{
-    color: white;
-    }
-    
-    a{
-    color: white;
-    text-decoration: none;
-    }
-    
-    .lista{
-    display: none;
-    position: absolute; /* Aqui está definindo onde o menu irá aparecer */
     
     Fazendo o menu aparecer quando clicado */
     .caixa:checked .lista{
@@ -119,4 +100,4 @@ body{
     color: black;
     position: relative;
     }
-    .Display.Display:flex
+    display:flex
