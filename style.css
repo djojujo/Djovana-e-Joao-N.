@@ -127,34 +127,10 @@ li a:hover {
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color:#3c1388;
-    color: rgb(39, 228, 54);
+    background-color:#f0ca83;
+    color: black;
     position: relative;
     top: 100%;
     width: 100%;
     text-align: center;
-}
-
-.main-content {
-    padding: 2rem 0;
-    background-color: #ac2323;
-}
-
-.main-content h2 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-}
-
-.main-content p {
-    font-size: 1.1rem;
-    margin-bottom: 1.5rem;
-}
-
-.main-content ul {
-    list-style-type: none;
-}
-
-.main-content ul li {
-    font-size: 1.1rem;
-    margin-bottom: 0.5rem;
 }
