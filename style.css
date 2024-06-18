@@ -134,3 +134,7 @@ li a:hover {
     width: 100%;
     text-align: center;
 }
+.imagem-diminuida {
+    width: 50%; /* Ajuste a largura conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+}
