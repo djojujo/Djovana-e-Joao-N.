@@ -1,3 +1,4 @@
+
 //const abacaxi = document.querySelector('carousel-inner');
 const items = document.querySelectorAll('slide');
 
