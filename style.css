@@ -122,3 +122,15 @@ li a {
 li a:hover {
     background-color: #ddd;
 }
+.subtitui{
+    display: inline-block;
+    align-items: center;
+    padding: 12px;
+    justify-content: space-around;
+    background-color:#f0ca83;
+    color: black;
+    position: relative;
+    top: 100%;
+    width: 100%;
+    text-align: center;
+}
