@@ -1,4 +1,4 @@
-const track = document.querySelector('carousel-inner');
+const abacaxi = document.querySelector('carousel-inner');
 const items = document.querySelectorAll('slide');
 
 let index = 0;
@@ -14,7 +14,7 @@ function nextslide(){
 
 function updateslide(){
     const itemwitdth = items[0].clientWidth;
-    track.style.transform = 'translateX(-${index * itemWidth}px)';
+    abacaxi.style.transform = 'translateX(-${index * itemWidth}px)';
 
 }
 setInterval(nextslide, 3000);
