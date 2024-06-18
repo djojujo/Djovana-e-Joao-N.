@@ -4,9 +4,9 @@ const items = document.querySelectorAll('.slide');
 let index = 0;
 const totalItems = items.length;
 
-function nextSlide() {
+function nextSlide(){
   index++;
-  if (index >= totalItems) {
+  if (index >= totalItems){
     index = 0;
   }
   updateSlide();
@@ -35,7 +35,7 @@ function nextslide(){
 }
 
 function updateslide(){
-    const itemwitdth = items[0].clientWidth;
+    const itemWidth = items[0].clientWidth;
     track.style.transform = `translateX(-${index * itemWidth}px)`;
 
 }
