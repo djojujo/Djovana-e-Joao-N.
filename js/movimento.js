@@ -1,5 +1,5 @@
-const track = document.querySelector('carousel-track');
-const items = document.querySelectorAll('carousel-item');
+const track = document.querySelector('carousel-inner');
+const items = document.querySelectorAll('slide');
 
 let index = 0;
 const totalitems = items.length;
