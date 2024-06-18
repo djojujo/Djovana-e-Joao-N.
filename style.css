@@ -136,7 +136,7 @@ li a:hover {
 }
 .imagem-diminuida {
     width: 70%; /* Ajuste a largura conforme necessário */
-    height: auto; /* Mantém a proporção da imagem */
+    height: 100px; /* Mantém a proporção da imagem */
 }
 .imagem-ajustada {
     width: 300px; /* Largura desejada */
