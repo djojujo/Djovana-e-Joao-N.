@@ -134,16 +134,10 @@ li a:hover {
     width: 100%;
     text-align: center;
 }
+
 .main-content {
     padding: 2rem 0;
     background-color: #ac2323;
-}
-
-.container {
-    width: 80%;
-    margin: 0 auto;
-    max-width: 900px;
-    text-align: center;
 }
 
 .main-content h2 {
