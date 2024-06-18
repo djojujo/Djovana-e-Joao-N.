@@ -134,3 +134,15 @@ li a:hover {
     width: 100%;
     text-align: center;
 }
+.style>
+/* Estilos opcionais para melhor apresentação */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+.integrante {
+    margin-bottom: 20px;
+}
+
+
+
