@@ -135,7 +135,7 @@ li a:hover {
     text-align: center;
 }
 .imagem-ajustada {
-    width: 300px; /* Largura desejada */
+    width: 100px; /* Largura desejada */
     height: 200px; /* Altura desejada */
     object-fit: cover; /* Redimensiona a imagem mantendo a proporção e corta o excesso */
     border: 2px solid #333; /* Exemplo de borda para destacar a imagem */
